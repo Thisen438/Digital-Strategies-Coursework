@@ -76,20 +76,20 @@ The steering group is the non-digital enabler behind all five. The rejected idea
 
 ## Files
 
-The working documents are kept locally (not yet in this repo):
+All working documents are in the root of this repo:
 
 | File | Contents |
 |---|---|
-| `IIT_PEST_Technological_Factors - Thisen.docx` | PEST Technological section |
-| `IIT_SWOT_Opportunities.docx` | SWOT Opportunities, full version |
-| `IIT_SWOT_Opportunities_Table.docx` | SWOT Opportunities, table version |
-| `IIT_McKinsey_7S_Whole_Organisation.docx` | 7S analysis of IIT as a whole |
-| `IIT_McKinsey_7S_Internal_Analysis.docx` | Older 7S version |
-| `IIT_Organisational_Structure.png` | IIT organisation chart |
-| `IIT_Corporate_Structure_Analysis.docx` | Corporate structure analysis |
-| `IIT_Business_Recommendations.docx` | Business recommendations, first draft |
-| `IIT_MVP_Process_Map.png` | Data Hub process map |
-| `6BUIS019C_Coursework_Specification_2026_Version-3 (1).pdf` | Coursework specification |
+| [`IIT_PEST_Technological_Factors - Thisen.docx`](IIT_PEST_Technological_Factors%20-%20Thisen.docx) | PEST Technological section |
+| [`IIT_SWOT_Opportunities.docx`](IIT_SWOT_Opportunities.docx) | SWOT Opportunities, full version |
+| [`IIT_SWOT_Opportunities_Table.docx`](IIT_SWOT_Opportunities_Table.docx) | SWOT Opportunities, table version |
+| [`IIT_McKinsey_7S_Whole_Organisation.docx`](IIT_McKinsey_7S_Whole_Organisation.docx) | 7S analysis of IIT as a whole |
+| [`IIT_McKinsey_7S_Internal_Analysis.docx`](IIT_McKinsey_7S_Internal_Analysis.docx) | Older 7S version |
+| [`IIT_Organisational_Structure.png`](IIT_Organisational_Structure.png) | IIT organisation chart |
+| [`IIT_Corporate_Structure_Analysis.docx`](IIT_Corporate_Structure_Analysis.docx) | Corporate structure analysis |
+| [`IIT_Business_Recommendations.docx`](IIT_Business_Recommendations.docx) | Business recommendations, first draft |
+| [`IIT_MVP_Process_Map.png`](IIT_MVP_Process_Map.png) | Data Hub process map |
+| [`6BUIS019C_Coursework_Specification_2026_Version-3 (1).pdf`](6BUIS019C_Coursework_Specification_2026_Version-3%20%281%29.pdf) | Coursework specification |
 
 Task progress is tracked in Notion: "Digital Strategy Coursework (6BUIS019C)" → "Coursework Tasks".
 
