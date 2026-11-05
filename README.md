@@ -2,7 +2,7 @@
 
 Group coursework for **6BUIS019C Digital Strategy** (IIT / University of Westminster, 2026/27): a consulting report on **"Advancing Sustainability at IIT"**.
 
-_Last updated: 5 November 2026_
+_Last updated: 5 November 2026 (7S revised)_
 
 ## The assignment
 
@@ -56,12 +56,14 @@ The three **mandatory appendices** are A: Group Work Plan, B: Feedback Action Lo
 | [`IIT_PEST_Technological_Factors - Thisen.docx`](IIT_PEST_Technological_Factors%20-%20Thisen.docx) | External analysis | PEST Technological factors T1–T5 |
 | [`IIT_SWOT_Opportunities.docx`](IIT_SWOT_Opportunities.docx) | External analysis | SWOT Opportunities O1–O5, full version (~870 words) |
 | [`IIT_SWOT_Opportunities_Table.docx`](IIT_SWOT_Opportunities_Table.docx) | External analysis | Same five opportunities as a table (~400 words) |
-| [`IIT_McKinsey_7S_Whole_Organisation.docx`](IIT_McKinsey_7S_Whole_Organisation.docx) | Internal analysis | **Current 7S**: IIT as a whole, current vs desired state, enablers/barriers, org chart |
+| [`IIT_McKinsey_7S_Whole_Organisation.docx`](IIT_McKinsey_7S_Whole_Organisation.docx) | Internal analysis | **Current 7S (v2, 5 Nov)**: justification incl. rejected frameworks, gap-rated table, fit/misfit analysis, insights I1–I3, Appendix D assumptions |
+| [`IIT_7S_Fit_Diagram.png`](IIT_7S_Fit_Diagram.png) | Internal analysis | 7S hub diagram: gap per element and misfits M1–M3 (Figure 1 of the 7S) |
 | [`IIT_McKinsey_7S_Internal_Analysis.docx`](IIT_McKinsey_7S_Internal_Analysis.docx) | Internal analysis | Older 7S, written as prose and focused on sustainability (superseded) |
-| [`IIT_Organisational_Structure.png`](IIT_Organisational_Structure.png) | Internal analysis | IIT organisation chart (Figure 1 of the 7S) |
+| [`IIT_Organisational_Structure.png`](IIT_Organisational_Structure.png) | Internal analysis | IIT organisation chart (Figure 2 of the 7S) |
 | [`IIT_Corporate_Structure_Analysis.docx`](IIT_Corporate_Structure_Analysis.docx) | Internal analysis | Mintzberg / Johnson et al. structure critique, 8-row rating table |
 | [`IIT_Business_Recommendations.docx`](IIT_Business_Recommendations.docx) | Business Recommendations | Long list, scoring, programme, synergies, alternatives, MVP canvas, draft AI box |
 | [`IIT_MVP_Process_Map.png`](IIT_MVP_Process_Map.png) | Business Recommendations | Swimlane map of the Data Hub's monthly cycle |
+| [`Past Iterations/`](Past%20Iterations) | — | Backups of each document before it was revised |
 | [`6BUIS019C_Coursework_Specification_2026_Version-3 (1).pdf`](6BUIS019C_Coursework_Specification_2026_Version-3%20(1).pdf) | — | Assessment specification (annotated with who owns which part) |
 
 According to the notes on the spec's marking scheme, Strategic Analysis is with Thisen and Ranuli, and the initial long list for Business Recommendations came from Diddy and Manthi. The Digital Strategy is planned for after Part 4.
@@ -90,22 +92,24 @@ According to the notes on the spec's marking scheme, Strategic Analysis is with 
 
 **Insight:** every opportunity runs into the same internal barrier: no consolidated data and no coordination.
 
-### Internal: McKinsey 7S (current version)
-The 7S is justified as purely internal (PEST covers external), whole-organisation, focused on how the elements fit together (Waterman, Peters and Phillips, 1980), and suited to checking whether IIT is ready for change. Each S compares IIT's current status with its target state: a leading regional institution and Sri Lanka's leading sustainable technology campus by 2030.
+### Internal: McKinsey 7S (current version, revised 5 Nov 2026)
+**Justification:** the 7S is purely internal (PEST covers external), covers the whole organisation, and tests how well the elements fit together (Waterman, Peters and Phillips, 1980). The value chain (Porter, 1985) and VRIO (Barney, 1991) were considered and rejected. The 7S's limits (qualitative, static, internal only) are offset by pairing it with PEST, using benchmarks and declaring assumptions.
 
-| Element | Main enablers (+) | Main barriers (–) |
+| Element | Gap | Why |
 |---|---|---|
-| Strategy | 35-year reputation; own UGC-approved BBA; distinctive 2030 goal | Depends on partner degrees; growth spread thinly; goals have no baseline or costed plan |
-| Structure | Fast top-down decisions; new Sustainability Office; Ratmalana redesign | Functional silos; units added ad hoc; Sustainability Office has no authority |
-| Systems | ISO 9001 quality system; strong in-house IT | Multiple partner QA systems; no joined-up operational data; no public reporting |
-| Shared values | Values lived through SDGP, placements, competitions | Eleven values is too many; sustainability isn't a core value |
-| Style | Entrepreneurial; quick commitment (LKR 80m) | Activity not turned into measured results; relies on a few senior people* |
-| Staff | Motivated students and staff; final-year capacity | Little spare staff time*; student turnover loses knowledge; tiny specialist teams |
-| Skills | Software, AI, data science, analytics | Smaller research output*; no carbon accounting / GRI / e-waste expertise |
+| Strategy | Medium | Ambition is clear; a costed, measurable plan is not |
+| Structure | **Large** | Sustainability has an owner but no power (NSBM runs its policy under the Vice-Chancellor) |
+| Systems | **Large** | No baseline or joined-up data (Monash measured and reported for a decade before net zero) |
+| Shared values | Small | The 2030 goal fits who IIT already is |
+| Style | Medium | The energy is there; accountability is not |
+| Staff | Medium | Motivated people, limited capacity |
+| Skills | Medium | Strong technical base, missing carbon/GRI/e-waste expertise |
 
-\* marked as an assumption in the document.
+**Misfits (Figure 1):** M1 Strategy–Systems (targets but no data), M2 Style–Structure (bottom-up activity, no one with authority), M3 Skills–Staff (skills sit with students who leave).
 
-**Overall finding:** the soft elements (shared values, staff, skills) are fairly close to the target. **The biggest gaps are in Structure and Systems.** Closing them needs cross-department responsibilities and shared data, not just new technology.
+**Insights the recommendations cite:** **I1** measure first · **I2** give sustainability authority, not just an owner · **I3** use IIT's own skills but keep the knowledge.
+
+Five assumptions (marked \*) are explained in Appendix D with how each could be checked. The main body is about 850 words. A highlighted placeholder asks the team to add 2–3 campus observation points.
 
 ### Internal: corporate structure analysis
 In Mintzberg's (1979) terms, IIT is a **functional structure with a strong strategic apex**. Of the eight parts rated: **Strength** – support/specialist units, quality and compliance; **Mixed** – ownership and governance, top management, academic schools, partner university model, campuses; **Weakness** – the Sustainability Office. Its key line is that "Sustainability has an owner but no power". The proposed fix is a **cross-functional sustainability steering group**, chaired by senior management, with a data owner from each school, facilities, IT and students. This adds a matrix-style link across the silos without restructuring.
